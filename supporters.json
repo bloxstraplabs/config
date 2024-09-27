@@ -1,17 +1,33 @@
 {
-  "columns": 3,
-  "supporters": [
-    {
-      "name": "JackGamesFTW",
-      "imageAsset": "3c5ee4de-4d94-4a46-b3f1-7fea24f1e896.png"
-    },
-    {
-      "name": "jaxron",
-      "imageAsset": "b5736210-6960-4227-9d22-77f4d0d9d2d7.jpg"
-    },
-    {
-      "name": "._bonus_.",
-      "imageAsset": "2b4099b0-c263-4b31-8538-b77ed92699da.jpg"
-    }
-  ]
+  "monthly": {
+    "columns": 3,
+    "supporters": [
+      {
+        "name": "JackGamesFTW",
+        "imageAsset": "3c5ee4de-4d94-4a46-b3f1-7fea24f1e896.png"
+      },
+      {
+        "name": "jaxron",
+        "imageAsset": "b5736210-6960-4227-9d22-77f4d0d9d2d7.jpg"
+      },
+      {
+        "name": "._bonus_.",
+        "imageAsset": "2b4099b0-c263-4b31-8538-b77ed92699da.jpg"
+      }
+    ]
+  },
+
+  "oneoff": {
+    "columns": 2,
+    "supporters": [
+      {
+        "name": "Epic Alex Furry",
+        "imageAsset": "9c357eba-3e6c-404e-827b-53aaa3ce56b9.jpg"
+      },
+      {
+        "name": "Mint",
+        "imageAsset": "15488c37-e011-4f99-aa8f-b7994bb4a837.jpg"
+      }
+    ]
+  }
 }
