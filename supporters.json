@@ -18,14 +18,26 @@
   },
 
   "oneoff": {
-    "columns": 2,
+    "columns": 3,
     "supporters": [
+      {
+        "name": "Kore",
+        "imageAsset": "15488c37-e011-4f99-aa8f-b7994bb4a837.jpg"
+      },
+      {
+        "name": "Sezei",
+        "imageAsset": "a7a72c1f-c171-4fc2-9c60-5c91603c6d49.jpg"
+      },
       {
         "name": "Epic Alex Furry",
         "imageAsset": "9c357eba-3e6c-404e-827b-53aaa3ce56b9.jpg"
       },
       {
         "name": "Mint",
+        "imageAsset": "15488c37-e011-4f99-aa8f-b7994bb4a837.jpg"
+      },
+      {
+        "name": "King Cake",
         "imageAsset": "15488c37-e011-4f99-aa8f-b7994bb4a837.jpg"
       }
     ]
