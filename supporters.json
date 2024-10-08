@@ -13,6 +13,10 @@
       {
         "name": "._bonus_.",
         "imageAsset": "2b4099b0-c263-4b31-8538-b77ed92699da.jpg"
+      },
+      {
+        "name": "NightPlay",
+        "imageAsset": "c86836af-9a20-435b-9c8d-423d0e1cfdb6.png"
       }
     ]
   },
@@ -22,7 +26,7 @@
     "supporters": [
       {
         "name": "Kore",
-        "imageAsset": "15488c37-e011-4f99-aa8f-b7994bb4a837.jpg"
+        "imageAsset": "5d2bce8f-cb15-4135-91a7-71ba919f860b.jpg"
       },
       {
         "name": "Sezei",
@@ -34,11 +38,11 @@
       },
       {
         "name": "Mint",
-        "imageAsset": "15488c37-e011-4f99-aa8f-b7994bb4a837.jpg"
+        "imageAsset": "f1bdd1ab-26ff-465e-a10f-d923d4391600.jpg"
       },
       {
         "name": "King Cake",
-        "imageAsset": "15488c37-e011-4f99-aa8f-b7994bb4a837.jpg"
+        "imageAsset": "bcef8b2f-6bc2-4f67-8302-961e294c348c.jpg"
       }
     ]
   }
