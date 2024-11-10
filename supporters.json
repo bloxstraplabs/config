@@ -3,6 +3,10 @@
     "columns": 3,
     "supporters": [
       {
+        "name": "HUMB4K",
+        "imageAsset": "3ef7d1d0-2186-4599-b479-02bdd12e5b88.jpg"
+      },
+      {
         "name": "JackGamesFTW",
         "imageAsset": "3c5ee4de-4d94-4a46-b3f1-7fea24f1e896.png"
       },
@@ -75,6 +79,10 @@
       {
         "name": "Epic Alex Furry",
         "imageAsset": "9c357eba-3e6c-404e-827b-53aaa3ce56b9.jpg"
+      },
+      {
+        "name": "Fluffy",
+        "imageAsset": "4d6bfcc2-7bcd-495a-910b-1d0dab7523ac.jpg"
       },
       {
         "name": "Rob",
